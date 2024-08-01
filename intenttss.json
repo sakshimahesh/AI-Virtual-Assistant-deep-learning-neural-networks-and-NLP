@@ -1,0 +1,16 @@
+{
+    "intents": 
+    [
+      {
+        "tag":"greeting",
+        "patterns": [
+          "Hi",
+          "Hey",
+          "How are you",
+          "Hello"
+        ],
+        "responses": ["Hi, schedule a zoom meeting?. \nor a phone call, send me an email" ]
+      }
+    ]
+
+    }

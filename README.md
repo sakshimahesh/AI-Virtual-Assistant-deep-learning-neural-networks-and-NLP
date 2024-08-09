@@ -20,7 +20,8 @@ Deep learning network type: Feedforward neural network path
 Natural language processing: nltk package
 
 Template for your "intenttss.json' you could create your own, catering your needs.
-Note: Training data is a very time consuming process
+
+Note: Training data is a very time consuming process.
 
 
 

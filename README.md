@@ -5,7 +5,7 @@ Maintaining balance between performance and resource constraints.
 Note: Training a medium scaled model data is a very time consuming process.
 
 
-**Vision**: This project is for me and for others,i.e. people could get answers about me in an time efficient manner, just speaking to my AI virtual assistant and also helps in scheduling meetings. Along with demonstrating my technical expertise in an practical way.
+**Vision**: This project is designed to benefit both myself and others by providing quick, efficient answers through my AI virtual assistant and facilitating seamless meeting scheduling. Along with demonstrating my technical expertise in an practical way.
 
 
 Progress: I will be integrating this chatbot on a cloud platform provided free services.

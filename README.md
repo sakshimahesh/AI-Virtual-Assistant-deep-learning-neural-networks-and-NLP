@@ -1,6 +1,7 @@
 Hi, 
-This project is for my own efficiency and for others,i.e. people could get answers about me in an time efficient manner.
-I will be integrating this chatbot on a cloud platform.
+This project is for me and for others,i.e. people could get answers about me in an time efficient manner, just speaking to my AI virtual assistant.
+
+I will be integrating this chatbot on a cloud platform provided free services.
 Current webapp is available at a specific url using Flask and Javascript.
 
 In progress (research phase) of deploying webapp to a cloud platform

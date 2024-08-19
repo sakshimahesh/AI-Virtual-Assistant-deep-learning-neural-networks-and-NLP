@@ -1,4 +1,4 @@
-**Intro**: Medium-scaled model: This deep learning model has been trained on over 200 lines per intent.(often the scale of real world applications)
+**Intro**: Medium-scaled model: This deep learning model has been trained on over 220 lines per intent.(often the scale of real world applications)
 
 Maintaining balance between performance and resource constraints.
 

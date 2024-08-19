@@ -15,7 +15,8 @@ In progress (research phase/build phase) of deploying webapp to a cloud platform
 
 
 
-Frameworks, softwares, etc: 
+Frameworks, softwares, tools, etc: 
+
 This virtual assistant is based on Deep Learning neural networks, Natural Langugage processing.
 
 Frameworks: PyTorch
@@ -30,7 +31,7 @@ Natural language processing: nltk package
 
 
 Template for your "intenttss.json' you could create your own, catering your needs.
-Over 200 lines per intent.
+Over 220 lines per intent.
 ( I am unsure if I should be uploading my intents.json file. Let me know in the comments)
 
 
